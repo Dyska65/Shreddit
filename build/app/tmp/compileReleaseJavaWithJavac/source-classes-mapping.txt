@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/shreddit/BuildConfig.java
+ com.example.shreddit.BuildConfig
+io/flutter/app/FlutterMultiDexApplication.java
+ io.flutter.app.FlutterMultiDexApplication

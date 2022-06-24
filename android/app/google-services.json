@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447261760009",
+    "project_id": "shreddit-ede6e",
+    "storage_bucket": "shreddit-ede6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447261760009:android:26ed1ac77e6738a85236d8",
+        "android_client_info": {
+          "package_name": "com.example.shreddit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447261760009-5atnhcspal2kj1qiilvjoroa3u4267a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYzgAKteYTMJLM27wB-WJI1byMz2UdoRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447261760009-5atnhcspal2kj1qiilvjoroa3u4267a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
